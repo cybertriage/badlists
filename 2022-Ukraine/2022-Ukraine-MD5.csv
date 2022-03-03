@@ -1,0 +1,26 @@
+value,comment
+5d5c99a08a7d927346ca2dafa7973fc1,MicrosoftTIC DEV-0586 reported WhisperGate MBR Wiper stage1.exe
+14c8482f302b5e81e3fa1b18a509289d,MicrosoftTIC DEV-0586 reported WhisperGate MBR Wiper stage2.exe
+84ba0197920fd3e2b7dfa719fee09d2f,US-Cert CISA AA22-057A reported HermeticWiper Trojan.Killdisk Win32 EXE
+3f4a16b29f2f0532b7ce3e7656799125,US-Cert CISA AA22-057A reported HermeticWiper Trojan.Killdisk Win32 EXE
+a952e288a1ead66490b3275a807f52e5,US-Cert CISA AA22-057A reported HermeticWiper RCDATA_DRV_X64 ms-compressed
+231b3385ac17e41c5bb1b1fcb59599c4,US-Cert CISA AA22-057A reported HermeticWiper RCDATA_DRV_X86 ms-compressed
+095a1678021b034903c85dd5acb447ad,US-Cert CISA AA22-057A reported HermeticWiper RCDATA_DRV_XP_X64 ms-compressed
+eb845b7a16ed82bd248e395d9852f467,US-Cert CISA AA22-057A reported HermeticWiper RCDATA_DRV_XP_X86 ms-compressed
+d5d2c4ac6c724cd63b69ca054713e278,US-Cert CISA AA22-057A reported HermeticWiper Trojan.Killdisk PartyTicket
+d01e2c2e8df92edeb8298c55211bc4b6,US-CERT CISA AA22-054A reported CyclopsBlink cpd
+bbb76de7654337fb6c2e851d106cebc7,US-CERT CISA AA22-054A reported CyclopsBlink cpd
+3c9d46dc4e664e20f1a7256e14a33766,US-CERT CISA AA22-054A reported CyclopsBlink install_upgrade
+3f22c0aeb1eec4350868368ea1cc798c,US-CERT CISA AA22-054A reported CyclopsBlink install_upgrade
+cbc1dc536cd6f4fb9648e229e5d23361,AustralianCSC reported Malicious ISO file (container)
+ebe2f8df39b4a94fb408580a728d351f,AustralianCSC reported Malicious ISO file (container)
+29e2ef8ef5c6ff95e98bff095e63dc05,AustralianCSC reported Malicious ISO file (container)
+dcfd60883c73c3d92fceb6ac910d5b80,AustralianCSC reported Malicious shortcut (LNK)
+7edf943ed251fa480c5ca5abb2446c75,AustralianCSC reported Cobalt Strike Beacon malware
+1c3b8ae594cb4ce24c2680b47cebf808,AustralianCSC reported Cobalt Strike Beacon malware
+decc2726599edcae8d1d1d0ca99d83a6,AustralianCSC reported HermeticWiper
+382fc1a3c5225fceb672eea13f572a38,AustralianCSC reported HermeticWiper
+f1a33b2be4c6215a1c39b45e391a3e85,AustralianCSC reported HermeticWiper
+13fbf30608402eda0edbbceda97d828e,SOCRadar reported HermeticWiper
+db8cc8adc726c3567b639c84ecf41aa5,SOCRadar reported Katana
+d38cc4879fe0bc66cb8e772b28fbfd15,SOCRadar reported Katana
